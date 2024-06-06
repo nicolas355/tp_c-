@@ -1,0 +1,13 @@
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\obj\Debug\netcoreapp3.1\TpObra.csprojAssemblyReference.cache
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\obj\Debug\netcoreapp3.1\TpObra.AssemblyInfoInputs.cache
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\obj\Debug\netcoreapp3.1\TpObra.AssemblyInfo.cs
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\obj\Debug\netcoreapp3.1\TpObra.csproj.CoreCompileInputs.cache
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\bin\Debug\netcoreapp3.1\TpObra.exe
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\bin\Debug\netcoreapp3.1\TpObra.deps.json
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\bin\Debug\netcoreapp3.1\TpObra.runtimeconfig.json
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\bin\Debug\netcoreapp3.1\TpObra.runtimeconfig.dev.json
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\bin\Debug\netcoreapp3.1\TpObra.dll
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\bin\Debug\netcoreapp3.1\TpObra.pdb
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\obj\Debug\netcoreapp3.1\TpObra.dll
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\obj\Debug\netcoreapp3.1\TpObra.pdb
+C:\Users\niko\Desktop\algoritmos de programacion\tp\TpObra\obj\Debug\netcoreapp3.1\TpObra.genruntimeconfig.cache

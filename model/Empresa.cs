@@ -12,6 +12,8 @@ public List<GrupoObrero> listagrupo;
         listaempresa = new List<Obrero>();
         listagrupo = new List<GrupoObrero>();
 
+
+// crear grupos
  for (int i = 0; i < 8; i++)
         {
             listagrupo.Add(new GrupoObrero());
@@ -33,7 +35,7 @@ public List<GrupoObrero> listagrupo;
             if (grupo.Cod == 0) 
             {
                 grupo.Integrantes.Add(unObrero);
-                Console.WriteLine($"{unObrero.Nombre} ha sido asignado al grupo sin asignar (código 0)");
+                Console.WriteLine($"{unObrero.Nombre}  fue asignado al grupo sin asignar (código 0)");
                 return;
             }
   
@@ -43,6 +45,19 @@ public List<GrupoObrero> listagrupo;
 
 
     }
+
+    public void getGrupos()
+{
+    foreach (var grupo in listagrupo)
+    {
+        Console.WriteLine($"Código del grupo: {grupo.Cod}");
+        Console.WriteLine("Integrantes del grupo:");
+        foreach (var obrero in grupo.Integrantes)
+        {
+            Console.WriteLine($"Nombre: {obrero.Nombre}, Apellido: {obrero.Apellido}");
+        }
+    }
+}
 
 
 

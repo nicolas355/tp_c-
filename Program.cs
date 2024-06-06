@@ -16,21 +16,13 @@ namespace TpObra
                         GrupoObrero grupo = new GrupoObrero();
 
 
-
                         //Codigo Del grupo
                         Console.WriteLine(grupo.Cod);
 
 
-
                         // empresa grupos
 
-
-
-
-
                         // añadir nuevos
-
-
 
 
                         Empresa reclutar = new Empresa();
@@ -38,8 +30,9 @@ namespace TpObra
                         reclutar.contratarObrero(robert);
                         reclutar.contratarObrero(rodolfo);
 
+          
+                    reclutar.getGrupos();
 
-    
 
            
         }
